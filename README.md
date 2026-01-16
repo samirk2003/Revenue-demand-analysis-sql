@@ -1,7 +1,8 @@
-# SQL Pizza Sales Analysis
+# Revenue & Demand Analysis Using SQL
+### Food Retail Sales Dataset | My SQL
 
 ## Project Overview
-This project analyzes pizza sales data using SQL to extract meaningful business insights such as total revenue, order trends, popular pizza categories, and customer preferences.
+This project analyzes food retail sales data(pizza category) using SQL to extract meaningful business insights such as total revenue, order trends, popular pizza categories, and customer preferences.
 
 ## Tools Used
 - SQL (MySQL)
